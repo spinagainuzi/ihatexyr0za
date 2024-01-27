@@ -1,0 +1,4 @@
+mkdir chatgpt-like-tensorflow
+cd chatgpt-like-tensorflow
+mkdir data
+mkdir models
